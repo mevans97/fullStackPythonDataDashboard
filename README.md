@@ -9,11 +9,16 @@ The dashboard meets the following key requirements:
 - **Data Visualization**: The data stored in MongoDB can be viewed and analyzed through graphical representations created in the `ProjectTwoDashboard.ipynb` notebook, powered by **Pandas** and **Matplotlib**.
 
 ## Screenshots / Proof of Functionality
-- Starting State of the Dashboard:
+  - Starting State of the Dashboard:
+  - ![Alt text for the image](Images/startingstateofdashboard.png)
   - Water Rescue Radio Button Clicked
+  - ![Alt text for the image](Images/WaterRescue.png)
   - Mountain or Wilderness Rescue Radio Button Clicked
+  - ![Alt text for the image](Images/MoountainOrWilderness.png)
   - Disaster or Individual Tracking Button Clicked
+  - ![Alt text for the image](Images/DisasterOrIndividual.png)
   - Reset widget clicked resulting in the default dashboard
+  - ![Alt text for the image](Images/Reset.png)
 
 ## Tools Used
 ### 1. MongoDB
@@ -57,7 +62,7 @@ This dashboard successfully meets the requirements of the **Grazioso Salvare** p
 
 
 ---
-
+# Questions Requried To Answer In ReadMe File For Class
 For my client/server development course, I was tasked with building a fullstack python webapp that utilitzed MongoDB, Python, Dash and Pandas.
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
