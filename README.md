@@ -1,4 +1,4 @@
-# fullStackPythonDataDashboard
+# Full Stack Python Data Dashboard
 For my client/server development course, I was tasked with building a fullstack python webapp that utilitzed MongoDB, Python, Dash and Pandas.
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
